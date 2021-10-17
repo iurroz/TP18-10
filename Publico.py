@@ -1,4 +1,4 @@
-from TrabajoPractico.Anses import Info
+from Anses import Info
 
 def agregarContactos():
     pass
