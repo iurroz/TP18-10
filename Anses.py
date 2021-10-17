@@ -1,4 +1,4 @@
-from main import Usuario
+from Usuario import Usuario
 
 database = [(13,120, "Marcos"), (12,110, "teodoro"), (11,100, "Iñaki" )]
 
