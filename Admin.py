@@ -1,4 +1,4 @@
-from TrabajoPractico.Usuario import Usuario
+from main import Usuario
 
 class LogIn :
 
