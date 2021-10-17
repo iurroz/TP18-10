@@ -6,5 +6,7 @@ def agregarContactos():
 def rechazarSolicitud():
     pass
 
-def ReportarEvento():
+from Admin import Login
+
+class ReportarEvento(Login):
     pass
