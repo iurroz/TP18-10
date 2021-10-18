@@ -12,7 +12,7 @@ class Info (Usuario):
         else:
             return Info.contacto (self.i-1)
 
-print(Info(Usuario.Cuil, Usuario.Celu, len(database)))
+
 
 
 
